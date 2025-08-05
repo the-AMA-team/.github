@@ -1,3 +1,3 @@
-check out scraply!
+# Check out [Scraply][https://github.com/the-AMA-team/scraply]!
 
-<img width="1918" height="881" alt="image" src="https://github.com/user-attachments/assets/fb6ae28d-e48f-42da-ba53-1a045e90df92" />
+![scraply][https://github.com/the-AMA-team/.github/blob/main/profile/assets/FocuSee%20Project%202025-07-19%2020-36-28_3.mp4.gif]
